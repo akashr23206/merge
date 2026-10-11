@@ -1,3 +1,5 @@
 hello
-hlo
 welcome
+=======
+b2 commit
+>>>>>>> feature-2
